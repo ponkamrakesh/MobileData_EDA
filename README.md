@@ -1,4 +1,4 @@
-# EDA for Mobile Specifications and Price
+# EDA for Mobile Specifications and Price using pandas,seaborn and matplotlib
 
 This project performs Exploratory Data Analysis (EDA) on a dataset containing mobile phone specifications and their launch prices in various countries. The dataset includes information such as company name, model name, mobile weight, RAM, camera details, processor, battery capacity, screen size, launch prices in different currencies, and launch year.
 
